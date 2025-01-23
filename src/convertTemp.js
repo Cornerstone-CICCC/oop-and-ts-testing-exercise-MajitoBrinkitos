@@ -8,4 +8,4 @@ class Converter {
   }
 }
 
-module.exports = Converter
+module.exports = Converter;
